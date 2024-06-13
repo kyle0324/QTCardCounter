@@ -1,0 +1,6 @@
+ashe,3,champion
+tahm,3,champion
+frostbite,3,spell
+elixer,3,spell
+peddler,3,creature
+lion,3,creature
